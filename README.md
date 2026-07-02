@@ -2,15 +2,15 @@
 
 Bunter statischer Prototyp für einen Kinder-Rätselgenerator im Stil des Sommer-Rätselbuch-Covers.
 
-## Live-Domain
+## Live-URL
 
-Geplante GitHub-Pages-Domain:
+Geplante GitHub-Pages-URL:
 
 ```text
-sommer-raetselstudio.munichpublishing.de
+https://tools.munichpublishing.de/sommer-raetselstudio/
 ```
 
-Diese Subdomain ist absichtlich getrennt von bestehenden Apps unter `tools.munichpublishing.de/...`, damit keine andere Live-App überschrieben wird.
+Der Slug `sommer-raetselstudio` ist absichtlich getrennt von bestehenden Apps wie `kopf-leiser`, `adhs-frauen-job` und `Grenzen_setzen`, damit keine andere Live-App überschrieben wird.
 
 ## Dateien
 
